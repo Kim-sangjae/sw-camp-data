@@ -1,4 +1,4 @@
-package com.ohgiraffers.section01.sorting;
+package com.sangjae.section01.sorting;
 
 import java.util.Arrays;
 
